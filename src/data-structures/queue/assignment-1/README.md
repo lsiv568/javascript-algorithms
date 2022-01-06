@@ -8,4 +8,7 @@ Your first assignment is to use the Queue class to do the following:
 * Add up to 5 items to the queue
 * Print the contents of the queue 
 * Print the first element of  the queue
-* Print the last element of the queue
+* Print the last element of the queue 
+
+**IMPORTANT**
+In order to accomplish the final task you may need to modify the Queue class to do this :)
